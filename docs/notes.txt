@@ -1,0 +1,12 @@
+main page
+    .pfa logo
+    .mission
+        create and explore art, music, games, animations
+        collaborate with our friends
+        tell our stories
+    .projects
+    .collective / collaborations
+    .contact
+
+others
+    .favicon
