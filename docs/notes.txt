@@ -1,12 +1,20 @@
 main page
     .pfa logo
     .mission
-        create and explore art, music, games, animations
-        collaborate with our friends
+        create explore design 
+        art, music, games, animations
+        have fun with our friends
         tell our stories
     .projects
+        PACmanio
+        tastee
+
     .collective / collaborations
+        Block Snake with kumasoft
     .contact
 
 others
     .favicon
+
+
+www.pfa-collective.org
