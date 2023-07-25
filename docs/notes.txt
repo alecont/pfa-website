@@ -1,21 +1,20 @@
-main page
-    .pfa logo
-    .mission
-        create explore design 
-        art, music, games, animations
-        have fun with our friends
-        tell our stories
-    .projects
-        PACmanio
-        tastee
+TODOs:
 
-    .collective / collaborations
-        Block Snake with kumasoft
+main page
+    .change snake crunch icon?
+    .pfa logo
+    .projects
+        tastee?
+
     .contact
+        create instagram
 
 others
     .favicon
 
+add the many logos? uhm...
+
+maybe add a couple of ideas and projects
 
 www.pfa-collective.org
 
