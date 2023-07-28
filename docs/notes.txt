@@ -1,13 +1,18 @@
 TODOs:
 
 main page
-    .change snake crunch icon?
-    .pfa logo
     .projects
         tastee?
 
     .contact
         create instagram
+
+    .tee/Merch
+        create store and add link
+
+    .connect the website to github pages
+
+    .maybe make images smaller?
 
 others
     .favicon
