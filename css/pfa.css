@@ -4,6 +4,9 @@ body {
 .padding-10 {
     padding: 10px 10px 10px 10px;
 }
+.margin-t20 {
+  margin-top: 20px;
+}
 .margin-l20 {
     margin-left: 20px;
 }
@@ -19,6 +22,10 @@ body {
 .section {
     margin-top: 60px;
     font-weight: bold;
+}
+.section40 {
+  margin-top: 40px;
+  font-weight: bold;
 }
 .table-nonfluid {
     width: auto !important;
@@ -47,4 +54,9 @@ a:active {
   color: skyblue;;
   background-color: transparent;
   text-decoration: none;
+}
+
+.item
+{
+  padding-bottom:30px
 }
