@@ -1,9 +1,6 @@
+www.pfa-collective.org
+
 TODOs:
-
-main page
-    .projects
-        tastee?
-
     .contact
         create instagram
 
@@ -12,15 +9,11 @@ main page
 
     .connect the website to github pages
 
+    .create two QR codes (one for the website and one for instagram)
+
+    .create poster to put near PACMANIO
+
+random notes/ideas/maybe:
+    .add the many logos? uhm...
+    .maybe add a couple of ideas and projects
     .maybe make images smaller?
-
-others
-    .favicon
-
-add the many logos? uhm...
-
-maybe add a couple of ideas and projects
-
-www.pfa-collective.org
-
-see notes on ipad
