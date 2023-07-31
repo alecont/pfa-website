@@ -1,13 +1,9 @@
 www.pfa-collective.org
+https://www.instagram.com/pfa.collective/
 
 TODOs:
-    .contact
-        create instagram
-
     .tee/Merch
         create store and add link
-
-    .connect the website to github pages
 
     .create two QR codes (one for the website and one for instagram)
 
